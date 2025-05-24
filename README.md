@@ -13,7 +13,6 @@ This script allows you to back up emails from any IMAP server to your local mach
 ## Requirements
 - Python 3.7 or higher
 - `imapclient`
-- `pyzmail36`
 
 Install dependencies with:
 
